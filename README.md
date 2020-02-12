@@ -76,7 +76,7 @@ ForgeRock Access Manager 6.5 (or newer) through an Apache Tomcat server.
 
 ## Configuration ###
 
-###Add ForgeRock Access Manager to IntelliTrust###
+### Add ForgeRock Access Manager to IntelliTrust ###
 
 To integrate ForgeRock Access Manager with IntelliTrust, you need to generate an **Application ID** in IntelliTrust.
 
@@ -114,7 +114,7 @@ To integrate ForgeRock Access Manager with IntelliTrust, you need to generate an
 
 13. Click **Done**.
 
-###Protect Access to ForgeRock Access Manager with a Resource Rule###
+### Protect Access to ForgeRock Access Manager with a Resource Rule ###
 Create a Resource Rule in IntelliTrust to protect access to ForgeRock Manager Access Manager. The Resource Rule determines the authentication conditions required to access ForgeRock Access Manager.
 
 1. Log in to your IntelliTrust account.
